@@ -239,3 +239,6 @@ This repository serves as the official landing page for Little Things. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Little Things today!**
+
+---
+**Last updated:** 2026-09-08 14:48:00 UTC
